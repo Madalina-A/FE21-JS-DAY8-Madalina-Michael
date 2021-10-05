@@ -1,0 +1,52 @@
+let flowers2=`
+[
+    {
+        "name":"Roses Orange",
+        "image":"https://images.pexels.com/photos/39517/rose-flower-blossom-bloom-39517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "stock":20,
+        "price":30,
+        "qtty":1 
+    },
+    {
+        "name":"Roses Classic" ,
+        "image":"https://images.pexels.com/photos/697259/pexels-photo-697259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description": "Pariatur nemo nihil incidunt iste similique impedit laborum minus sunt?",
+        "stock":25 ,
+        "price":25,
+        "qtty":1  
+    },
+    {
+        "name":"Orchids" ,
+        "image":"https://images.pexels.com/photos/1047814/pexels-photo-1047814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description":"Voluptate, doloremque vitae velit dolores sit, ullam odit excepturi illo cum pariatur quod iusto suscipit" ,
+        "stock":15 ,
+        "price":33,
+        "qtty":1  
+    },
+    {
+        "name":"Orchids Special" ,
+        "image":"https://images.pexels.com/photos/669246/pexels-photo-669246.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description":"Obcaecati laboriosam perspiciatis libero praesentium dolore voluptatem magni officia reprehenderit" ,
+        "stock":10 ,
+        "price":35,
+        "qtty":1  
+    },
+    {
+        "name":"Lilies Classic" ,
+        "image":"https://images.pexels.com/photos/4548929/pexels-photo-4548929.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description": "Explicabo laborum doloremque mollitia quo sunt vitae maxime.",
+        "stock": 18,
+        "price":32,
+        "qtty":1  
+    },
+    {
+        "name":"Lilies Special" ,
+        "image":"https://images.pexels.com/photos/8891516/pexels-photo-8891516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description": "Quo voluptas optio reiciendis, earum rem, dicta, sint dolore enim mollitia numquam explicabo laborum tenetur doloribus?",
+        "stock":8 ,
+        "price":35,
+        "qtty":1  
+    }
+]
+`
